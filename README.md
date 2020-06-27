@@ -1,2 +1,2 @@
-# Data-Management-System
-A data management system that can pull data, clean it up, and visualize it.
+# Data Management System
+Tried to crawl a mailing list, and visualized the data as word cloud and lines.
